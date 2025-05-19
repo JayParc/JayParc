@@ -71,16 +71,16 @@
   <br/>
   
   ## 🏆 Major Awards
-  #### 🥈 University start-up (start-up item) and capstone idea competition won the Excellence Award
-  #### 🥈 LikeLion, 5th place in the 10th Gyeonggi Southern Hackathon won the Excellence Award
-  #### 🥈 Youth Data Campus Medical AI & Big Data Course Completion and Excellence Award
-  #### 🥇 LikeLion, the top prize for the second place in the 11th 9 university hackathon (sponsored by Daou and Techit)
-  #### 🥉 KDT Hackerton Vocational Competency Review and Assessment Award organized by the Ministry of Employment and Labor
+  #### 🥈 교내 스타트업(창업아이템) 및 캡스톤 아이디어 경진대회 3등 우수상 수상
+  #### 🥈 멋쟁이사자처럼 10기 경기남부해커톤 5등 우수상 수상
+  #### 🥈 청년데이터캠퍼스 의료 빅데이터 과정 수료 및 우수상 수상
+  #### 🥇 멋쟁이사자처럼대학 11기 9개 대학 미르톤(다우, 테킷 협찬) 2등 최우수상 수상
+  #### 🥉 고용노동부 주관, KDT해커톤 직업능력심사평가원장상 수상
   <br/>
   
   ## 🎖️ Other Awards
-  #### 👮 Convenience store robber's arrest citation received
-  #### 🪖 A fallen comrade receives a commendation for saving a life through first aid
+  #### 👮 편의점 강도 검거 기여 표창 수상
+  #### 🪖 쓰러진 전우 응급처치 유공 표창 수상
   <!--
   ## 🤔 Github Stats
   [![JayParc's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayParc)](https://github.com/JayParc/github-readme-stats)
