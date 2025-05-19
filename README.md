@@ -13,7 +13,6 @@
   #### :fire: I aim to become a DevOps Engineer.<br/>
   #### :mortar_board: Bachelor of Medical IT, Eulji University(EU)
   <br/>
-  <br/>
   
   ## 🧱 Tech Stack
   ### Language
@@ -71,15 +70,27 @@
   <br/>
   <br/>
   
+  ## 🏆 Major Awards
+  #### 🥈 University start-up (start-up item) and capstone idea competition won the Excellence Award
+  #### 🥈 LikeLion, 5th place in the 10th Gyeonggi Southern Hackathon won the Excellence Award
+  #### 🥈 Youth Data Campus Medical AI & Big Data Course Completion and Excellence Award
+  #### 🥇 LikeLion, the top prize for the second place in the 11th 9 university hackathon (sponsored by Daou and Techit)
+  #### 🥉 KDT Hackerton Vocational Competency Review and Assessment Award organized by the Ministry of Employment and Labor
+  <br/>
+  
+  ## 🎖️ Other Awards
+  #### 👮 Convenience store robber's arrest citation received
+  #### 🪖 A fallen comrade receives a commendation for saving a life through first aid
+  <!--
   ## 🤔 Github Stats
   [![JayParc's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayParc)](https://github.com/JayParc/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayParc)](https://github.com/JayParc/github-readme-stats)
-  
+  -->
 </div>
 
 <!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JayParc/JayParc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - Hi there 👋
