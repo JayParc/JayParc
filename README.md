@@ -83,10 +83,6 @@
   #### 🪖 쓰러진 전우 응급처치 유공 표창 수상
   <br/>
   <br/>
-
-  ## 🤝 Contact me
-  [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/j4y_dreamer/)
-  #### 📧 pjh4253@g.eulji.ac.kr
   <!--
   ## 🤔 Github Stats
   [![JayParc's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayParc)](https://github.com/JayParc/github-readme-stats)
