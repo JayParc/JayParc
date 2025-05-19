@@ -29,14 +29,25 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <!--R-->
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
   
   <br/>
   
   ### Library
+  <!--BeautifulSoup-->
+  <img src="https://img.shields.io/badge/BeautifulSoup4-FFD700?style=flat-square&logo=BeautifulSoup4&logoColor=white"/>
   <!--Selenium-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  <!--Pandas-->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+  <!--NumPy-->
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
+  <!--TensorFlow-->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <!--OpenAI-->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
+
   <br/>
   
   ### Framework
