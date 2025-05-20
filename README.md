@@ -1,7 +1,7 @@
 <div>
 
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20JayParc%20World)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World)
 
 </div>
 
@@ -60,7 +60,7 @@
   
   ### ETC
   <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_Web_Service-232F3E?style=flat-square&logo=AmazonWebService&logoColor=white"/>
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <!--GitHub Actions-->
