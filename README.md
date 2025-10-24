@@ -9,8 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Web & APP Full-Stack Developer from South Korea.<br/>
-  #### :fire: I aim to become a DevOps Engineer.<br/>
+  #### :raising_hand: I am an AI Infra Researcher<br/>
+  #### :fire: I am Working at 한국정보통신기술협회(TTA) AI Computing Performance Team<br/>
   #### :mortar_board: Bachelor of Medical IT, Eulji University(EU)
   <br/>
   
@@ -80,7 +80,7 @@
   
   ## 🎖️ Other Awards
   #### 👮 편의점 강도 검거 기여 표창 수상
-  #### 🪖 쓰러진 전우 응급처치 유공 표창 수상
+  #### :pill: 쓰러진 전우 응급처치 유공 표창 수상
   <br/>
   <br/>
   <!--
