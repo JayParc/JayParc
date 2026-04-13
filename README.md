@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am an AI Infra Researcher<br/>
-  #### :fire: I am Working at 한국정보통신기술협회(TTA) AI Computing Performance Team<br/>
+  #### :fire: I am Working at 한국정보통신기술협회(TTA) AI SemiConductor Verification Team<br/>
   #### :mortar_board: Bachelor of Medical IT, Eulji University(EU)
   <br/>
   
